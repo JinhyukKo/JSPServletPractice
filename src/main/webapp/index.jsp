@@ -18,5 +18,6 @@ URL : <a href="http://localhost:8080/board/HelloServlet">URL</a>
 	<input type="text" name="name">
 	<input type="submit" value="doPOST"/>
 </form>
+
 </body>
 </html>
