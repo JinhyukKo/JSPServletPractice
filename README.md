@@ -25,7 +25,7 @@ board
 
 #### [/form/response.jsp](./src/main/webapp/form/response.jsp)
 
-<img width="985" alt="Screenshot 2024-10-01 at 2 17 09 PM" src="https://github.com/user-attachments/assets/a34b4e51-c34b-4557-9c47-76845a2907b4">
+<img width="1000" alt="Screenshot 2024-10-01 at 2 17 58 PM" src="https://github.com/user-attachments/assets/3f7ba63d-df9c-4428-a065-809d8f9ac1de">
 
 1. 요청라인 TCP/IP정보
 2. 헤더정보
