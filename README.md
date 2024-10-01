@@ -25,6 +25,8 @@ board
 
 #### [/form/response.jsp](./src/main/webapp/form/response.jsp)
 
+<img width="985" alt="Screenshot 2024-10-01 at 2 17 09 PM" src="https://github.com/user-attachments/assets/a34b4e51-c34b-4557-9c47-76845a2907b4">
 
-<img width="230" alt="Screenshot 2024-10-01 at 1 24 47 PM" src="https://github.com/user-attachments/assets/c306d865-8ca8-4b35-ad74-837733d0902a">
-1. name과 value로 담겨 보낸 form data그대로 전송
+1. 요청라인 TCP/IP정보
+2. 헤더정보
+3. name과 value로 담겨 보낸 form data그대로 전송
