@@ -12,13 +12,13 @@
 	<input type="text" name="name"><br>
 	gender: 
 
-	<input type="radio" name="gender" value="male">
-	<input type="radio" name="gender" value="female">
+	M <input type="radio" name="gender" value="male">
+	F <input type="radio" name="gender" value="female">
 	<br>
 	sports :
-	 <input type="checkbox" name="sports" value="baseball">
-	 <input type="checkbox" name="sports" value="football">
-	 <input type="checkbox" name="sports" value="basketball">
+	 baseball <input type="checkbox" name="sports" value="baseball">
+	 football <input type="checkbox" name="sports" value="football">
+	 bascketball <input type="checkbox" name="sports" value="basketball">
 	 <br>
 	season : 
 	<select name="season">
