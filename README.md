@@ -23,6 +23,7 @@ board
 <img width="355" alt="Screenshot 2024-10-01 at 1 24 57 PM" src="https://github.com/user-attachments/assets/d5146188-48a4-4436-ae88-39b3fea8626c">
 
 
-#### /form/response.jsp
+#### /form/response.jsp [ㅇㅇ](./src)
+
 
 <img width="230" alt="Screenshot 2024-10-01 at 1 24 47 PM" src="https://github.com/user-attachments/assets/c306d865-8ca8-4b35-ad74-837733d0902a">
