@@ -27,3 +27,4 @@ board
 
 
 <img width="230" alt="Screenshot 2024-10-01 at 1 24 47 PM" src="https://github.com/user-attachments/assets/c306d865-8ca8-4b35-ad74-837733d0902a">
+1. name과 value로 담겨 보낸 form data그대로 전송
