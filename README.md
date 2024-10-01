@@ -20,4 +20,9 @@ board
 2. doGet, doPost 시 hello *name*
 
 ### /form
-<img width="246" alt="Screenshot 2024-10-01 at 1 20 10 PM" src="https://github.com/user-attachments/assets/52ed6d35-2cbd-4546-bd71-c900c56e2b77">
+<img width="355" alt="Screenshot 2024-10-01 at 1 24 57 PM" src="https://github.com/user-attachments/assets/d5146188-48a4-4436-ae88-39b3fea8626c">
+
+
+#### /form/response.jsp
+
+<img width="230" alt="Screenshot 2024-10-01 at 1 24 47 PM" src="https://github.com/user-attachments/assets/c306d865-8ca8-4b35-ad74-837733d0902a">
