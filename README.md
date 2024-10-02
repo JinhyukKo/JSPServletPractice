@@ -28,5 +28,5 @@ board
 <img width="1000" alt="Screenshot 2024-10-01 at 2 17 58 PM" src="https://github.com/user-attachments/assets/3f7ba63d-df9c-4428-a065-809d8f9ac1de">
 
 1. 요청라인 TCP/IP정보
-2. 헤더정보
+2. 헤더정보 (warning 헤더정보 value는 리스트가 없음)
 3. name과 value로 담겨 보낸 form data그대로 전송
