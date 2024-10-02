@@ -30,3 +30,12 @@ board
 1. 요청라인 TCP/IP정보
 2. 헤더정보 (warning 헤더정보 value는 리스트가 없음)
 3. name과 value로 담겨 보낸 form data그대로 전송
+
+### /cookie
+
+<img width="460" alt="Screenshot 2024-10-02 at 9 32 39 PM" src="https://github.com/user-attachments/assets/923130d9-874d-4e05-a4c9-d4c6cda52760">
+<img width="422" alt="Screenshot 2024-10-02 at 9 34 03 PM" src="https://github.com/user-attachments/assets/aa11de61-c828-485e-ae54-0b5b7f9fa5ee">
+
+1. by submitting form, you can add cookies.
+2. /cookie/cookie.jsp adds the cookie information and redirect to the previous page
+3. you can see the result!
