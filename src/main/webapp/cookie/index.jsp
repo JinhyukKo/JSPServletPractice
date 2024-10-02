@@ -12,5 +12,13 @@ name :<input type="text"name="name"><br>
 age : <input type="text"name="age">
 <input type= "submit" value="submit"/>
 </form>
+<h3>Cookies </h3> 
+<% 
+	Cookie[] cookies= request.getCookies();
+	for (Cookie cookie : cookies){
+		out.print(cookie.getName() + " : " + cookie.getValue()+"<br>");
+	}
+%> 
+
 </body>
 </html>
