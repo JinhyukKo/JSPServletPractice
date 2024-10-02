@@ -6,7 +6,10 @@ board
 2. HelloServlet.java
 3. form
    1. /
-   2. response  
+   2. response
+4. cookie
+   1. /
+   2. cookie.jsp
 
 ## Path
 /Java Resources : Servlet
