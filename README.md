@@ -14,10 +14,11 @@ board
 /src/main/webapp/ : root directory for Static resources
 
 ### [/](./src/main/webapp/index.jsp)
-<img width="241" alt="Screenshot 2024-09-30 at 9 38 17 PM" src="https://github.com/user-attachments/assets/8c49685b-8f84-4662-8793-46978c12e2a7">
+<img width="313" alt="Screenshot 2024-10-02 at 9 34 28 PM" src="https://github.com/user-attachments/assets/1e0fee12-4d9a-49b4-b371-add1c22ebe19">
 
 1. URL 클릭시 파라미터가없어 hello null
 2. doGet, doPost 시 hello *name*
+3. <jsp:include> 를 볼 수있음.
 
 ### [/form](./src/main/webapp/form/index.jsp)
 <img width="355" alt="Screenshot 2024-10-01 at 1 24 57 PM" src="https://github.com/user-attachments/assets/d5146188-48a4-4436-ae88-39b3fea8626c">
