@@ -18,6 +18,12 @@ URL : <a href="http://localhost:8080/board/HelloServlet">URL</a>
 	<input type="text" name="name">
 	<input type="submit" value="doPOST"/>
 </form>
+<h3>jsp:include</h3>
+<jsp:include page="include.jsp">
+	<jsp:param name="name" value="jinhyuk" />
+	<jsp:param name="age" value="25" />
+</jsp:include>
+<h3>jsp:include</h3>
 
 </body>
 </html>
