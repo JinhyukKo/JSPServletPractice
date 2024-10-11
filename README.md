@@ -52,4 +52,8 @@ board
 <img width="327" alt="Screenshot 2024-10-11 at 1 21 51 PM" src="https://github.com/user-attachments/assets/191e17a7-0e32-491f-989a-60a7e9cda53f">
 <img width="474" alt="Screenshot 2024-10-11 at 1 21 20 PM" src="https://github.com/user-attachments/assets/d1c2ca26-70fb-4eb1-b66c-6fd48c824d3f">
 
+1. create src/main/java/com/member/Memberinfo.java
+2. import it with <jsp:useBean/>
+3. you can get & set property using action-tag or java codes
+
 
